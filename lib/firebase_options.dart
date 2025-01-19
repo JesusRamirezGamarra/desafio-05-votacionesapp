@@ -63,6 +63,9 @@ class DefaultFirebaseOptions {
     messagingSenderId: '657092912794',
     projectId: 'flutter-2024-aa0aa',
     storageBucket: 'flutter-2024-aa0aa.firebasestorage.app',
+    androidClientId: '657092912794-splmstfit84p44tb176r1rc63a885n89.apps.googleusercontent.com',
+    iosClientId: '657092912794-mrca87avjbns77qgcocfd42gj552j3b2.apps.googleusercontent.com',
     iosBundleId: 'com.LJRG.appvotacionesg10',
   );
+
 }
